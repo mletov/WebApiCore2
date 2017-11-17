@@ -1,0 +1,11 @@
+E:\VS-Projects\WebApiCore\WebApiCore\bin\Debug\netcoreapp2.0\WebApiCore.deps.json
+E:\VS-Projects\WebApiCore\WebApiCore\bin\Debug\netcoreapp2.0\WebApiCore.runtimeconfig.json
+E:\VS-Projects\WebApiCore\WebApiCore\bin\Debug\netcoreapp2.0\WebApiCore.runtimeconfig.dev.json
+E:\VS-Projects\WebApiCore\WebApiCore\bin\Debug\netcoreapp2.0\WebApiCore.dll
+E:\VS-Projects\WebApiCore\WebApiCore\obj\Debug\netcoreapp2.0\WebApiCore.csproj.CoreCompileInputs.cache
+E:\VS-Projects\WebApiCore\WebApiCore\obj\Debug\netcoreapp2.0\WebApiCore.AssemblyInfoInputs.cache
+E:\VS-Projects\WebApiCore\WebApiCore\obj\Debug\netcoreapp2.0\WebApiCore.AssemblyInfo.cs
+E:\VS-Projects\WebApiCore\WebApiCore\bin\Debug\netcoreapp2.0\WebApiCore.pdb
+E:\VS-Projects\WebApiCore\WebApiCore\obj\Debug\netcoreapp2.0\WebApiCore.dll
+E:\VS-Projects\WebApiCore\WebApiCore\obj\Debug\netcoreapp2.0\WebApiCore.pdb
+E:\VS-Projects\WebApiCore\WebApiCore\obj\Debug\netcoreapp2.0\WebApiCore.csprojResolveAssemblyReference.cache
